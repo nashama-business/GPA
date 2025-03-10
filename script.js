@@ -38,7 +38,7 @@ function updateCoursesUI() {
         </h3>
         <label><i class="fas fa-tag"></i> رمز المادة:</label>
         <select class="course-code">
-          <option value="أ">A</option>
+          <option value="A">A</option>
           <option value="-A">-A</option>
           <option value="+B">+B</option>
           <option value="B">B</option>
